@@ -1,3 +1,3 @@
 # digital-clock
 
-Playing around with functions in js. First of many projects to come.
+Playing around with functions in js, specifically in building a clock.
