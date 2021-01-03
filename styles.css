@@ -14,11 +14,11 @@ body {
 }
 
 .badge {
-  width: 76px;
+  width: 70px;
   background: #E66357;
   color: white;
   padding: 5px 10px;
-  font-family: sans-serif;
+  font-family: Orbitron;
   font-weight: bold;
   position: absolute;
   top: -15px;
